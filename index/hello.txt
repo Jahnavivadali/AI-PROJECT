@@ -1,3 +1,0 @@
-hi welcome to hello file
-this is just a readable file
-adding another line to hello file
